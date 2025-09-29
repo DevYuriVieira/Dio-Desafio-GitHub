@@ -1,0 +1,27 @@
+body {
+    background:black ;
+}
+#title, .subtitle, .post.title{
+    color:rgb(108, 22, 189);
+    text-align: center;
+    font-size: 40px;
+    text-transform: uppercase;
+
+}
+
+.post.title{
+    color: darkorange;
+    text-align: center;
+    font-size: 25px;
+}
+
+.subtitle{
+    color: darkcyan;
+    text-align: center;
+    font-size: 30px;
+}
+
+.post{
+    background: wheat;
+    padding: 12px;
+}
